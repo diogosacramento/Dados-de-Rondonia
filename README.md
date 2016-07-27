@@ -1,2 +1,2 @@
 # Dados-de-Rondonia
-Information Rondônia (Brazilian State).
+Information about Rondonia, Brazilian State. (Informações sobre Rondônia, Estado Brasileiro.)
